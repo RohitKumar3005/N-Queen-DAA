@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RohitKumar3005/N-Queen-DAA.git/static/css/main.6ceadacd.css",
+    "main.js": "/RohitKumar3005/N-Queen-DAA.git/static/js/main.0e581619.js",
+    "index.html": "/RohitKumar3005/N-Queen-DAA.git/index.html",
+    "main.6ceadacd.css.map": "/RohitKumar3005/N-Queen-DAA.git/static/css/main.6ceadacd.css.map",
+    "main.0e581619.js.map": "/RohitKumar3005/N-Queen-DAA.git/static/js/main.0e581619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ceadacd.css",
+    "static/js/main.0e581619.js"
+  ]
+}
